@@ -1,20 +1,21 @@
+<!doctype html>
 <html>
 <head>
 <meta charst="utf-8">
-<tittle>страница уточника томвея</tittle>
+<tittle>=motv utook</tittle>
 </head>
 <body>
 
 <left><h1>матвей уточкин</h1></left>
-<left><img alt="Это я" width="15%" src="me.jpg"></left>
+<left><img alt="це я" width="15%" src="me.jpg"></left>
       <br/>
       <h2>Контакты:</h2>
-      Страничка <a href=https://vk.com/username/>vkontakte</a>
+      Страничка <a href=https://vk.com/uakerneverdies/>vkontakte</a>
       <br/>
-      <a href=https://github.com/username>GitHub</a>
+      <a href=https://github.com/belom0r>GitHub</a>
       <br/>
-      Телефон: <b>+7..........</b>
+      Телефон: <b>+79852455989</b>
       <br/>
-      E-mail: <i>username@edu.hse.ru</i>
+      E-mail: <i>mdutochkin_1@edu.hse.ru</i>
     </body>
   </html>
