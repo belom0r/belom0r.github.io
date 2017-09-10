@@ -2,15 +2,15 @@
 <html>
 <head>
 <meta charst="utf-8">
-<tittle>=motv utook</tittle>
+<tittle>=motv utok</tittle>
 </head>
 <body>
 
-<left><h1>матвей уточкин</h1></left>
-<left><img alt="це я" width="15%" src="me.jpg"></left>
+<left><h1>Matvey Utochkin </h1></left>
+<left><img alt="eto ya" width="15%" src="me.jpg"></left>
       <br/>
-      <h2>Контакты:</h2>
-      Страничка <a href=https://vk.com/uakerneverdies/>vkontakte</a>
+      <h2>contacts:</h2>
+      page <a href=https://vk.com/uakerneverdies/>vkontakte</a>
       <br/>
       <a href=https://github.com/belom0r>GitHub</a>
       <br/>
