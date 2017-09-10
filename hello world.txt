@@ -14,7 +14,7 @@
       <br/>
       <a href=https://github.com/belom0r>GitHub</a>
       <br/>
-      Телефон: <b>+79852455989</b>
+      phone number: <b>+79852455989</b>
       <br/>
       E-mail: <i>mdutochkin_1@edu.hse.ru</i>
     </body>
